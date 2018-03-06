@@ -44,9 +44,9 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Book Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="SXc-yz-tEp">
-                                                    <rect key="frame" x="15" y="8" width="69" height="16.5"/>
+                                                    <rect key="frame" x="15" y="8" width="67.5" height="16.5"/>
                                                     <autoresizingMask key="autoresizingMask"/>
-                                                    <fontDescription key="fontDescription" name="AovelSans-Black" family="Aovel Sans" pointSize="17"/>
+                                                    <fontDescription key="fontDescription" name="AovelSans-Bold" family="Aovel Sans" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
