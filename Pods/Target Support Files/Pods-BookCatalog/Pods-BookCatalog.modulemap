@@ -1,0 +1,6 @@
+framework module Pods_BookCatalog {
+  umbrella header "Pods-BookCatalog-umbrella.h"
+
+  export *
+  module * { export * }
+}
